@@ -10,4 +10,5 @@ public class MathAlgorithms{
     public static boolean isPerfect(int num){
         return false;
     }
+    
 }
